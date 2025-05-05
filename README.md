@@ -40,4 +40,9 @@ A sleek, beginner-friendly Blackjack (21) game built with **HTML**, **CSS**, and
 ---
 
 ## 📁 Folder Structure
-
+```bash
+js-blackjack/
+├── index.html        # Game layout
+├── index.js          # Game logic
+├── style.css         # Styling and layout
+└── Blackjack.mp4     # Background video
