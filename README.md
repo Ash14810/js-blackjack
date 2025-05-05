@@ -8,7 +8,8 @@ A sleek, beginner-friendly Blackjack (21) game built with **HTML**, **CSS**, and
 
 ## 🎮 Live Demo
 
-👉 [[**[Play Now](#)** ](https://github.com/Ash14810/js-blackjack.git)]
+👉 **[Play Now](https://github.com/Ash14810/js-blackjack.git)**
+
 
 ---
 
