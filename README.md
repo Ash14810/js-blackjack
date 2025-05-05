@@ -14,7 +14,8 @@ A sleek, beginner-friendly Blackjack (21) game built with **HTML**, **CSS**, and
 
 ## 📸 Screenshot
 
-*(Optional: Include a screenshot or screen recording GIF of the game here)*
+![repo1](https://github.com/user-attachments/assets/61166c61-a892-4a67-8bdd-21d74ca409f2)
+
 
 ---
 
