@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Blackjack Game</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <!-- Background Video -->
+    <video autoplay muted loop id="bg-video">
+        <source src="Blackjack.mp4" type="video/mp4">
+        Your browser does not support the video tag.
+    </video>
+    <div class="video-overlay"></div>
+
+    <!-- Game Container -->
+    <div class="game-container">
+        <h1>Blackjack</h1>
+        <p id="message-el">Want to play a round?</p>
+        <p id="cards-el">Cards:</p>
+        <p id="sum-el">Sum:</p>
+        <p id="player-el"></p>
+
+        <!-- Buttons -->
+        <div class="button-container">
+            <button onclick="startGame()">START GAME</button>
+            <button onclick="runnewCard()">NEW CARD</button>
+        </div>
+    </div>
+
+    <!-- JavaScript -->
+    <script src="index.js"></script>
+</body>
+</html>
