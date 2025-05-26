@@ -4,14 +4,7 @@ A sleek, beginner-friendly Blackjack (21) game built with **HTML**, **CSS**, and
 
 > 🎓 Made as a hands-on JavaScript DOM manipulation project.
 
----
 
-## 🎮 Live Demo
-
-👉 **[Play Now](https://ash14810.github.io/js-blackjack/)**
-
-
----
 
 ## 📸 Screenshot
 
